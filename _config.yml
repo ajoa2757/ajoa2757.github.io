@@ -1,12 +1,12 @@
-name: ChangHyeon Nam's Blog
-url: 'https://changhyeonnam.github.io'
+name: Kevin's Lab
+url: 'https://ajoa2757.github.io'
 description: 'tech blog'
 
 exclude: [Gemfile, Gemfile.lock, README.md]
 markdown: kramdown
 
-author: 'ChangHyeon Nam'
-disqus_shortname: Nam
+author: 'Kevin Lee'
+disqus_shortname: Kev
 # google_analytics: G-NN7JP65RMS
 
 gems:
