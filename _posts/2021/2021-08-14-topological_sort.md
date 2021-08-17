@@ -1,5 +1,5 @@
 ---
-title: 위상정렬(Topological sort)
+title: 포스팅 예시 - 위상정렬(Topological sort)
 layout: post
 Created: August 11, 2021 11:53 AM
 tags:
